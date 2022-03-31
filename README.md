@@ -30,6 +30,6 @@ Proyecto realizado para practicar conceptos básicos de React Hooks y la integra
 
 * [HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
 * [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)
-* [TheDogApi](https://docs.thedogapi.com/)
+* [Open wheater API](https://openweathermap.org/api)
 
 
